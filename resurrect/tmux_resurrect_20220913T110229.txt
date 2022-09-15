@@ -1,0 +1,4 @@
+pane	nest	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/lexstep-nest/scripts	0	zsh	:/bin/zsh --login
+pane	nest	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/lexstep-nest/scripts/entity_imports	1	zsh	:/bin/zsh --login
+window	nest	1	:zsh	1	:*	ad70,314x147,0,0{157x147,0,0,2,156x147,158,0,3}	:
+state	nest	

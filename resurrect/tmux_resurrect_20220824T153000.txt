@@ -1,0 +1,4 @@
+pane	0	1	1	:*	1	pidgey	:/Users/rai/.local/share/chezmoi	0	zsh	:/bin/zsh --login
+pane	0	1	1	:*	2	pidgey	:/Users/rai	1	zsh	:/bin/zsh --login
+window	0	1	:zsh	1	:*	ad6e,314x147,0,0{157x147,0,0,0,156x147,158,0,1}	:
+state	0	

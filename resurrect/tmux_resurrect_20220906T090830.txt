@@ -1,0 +1,3 @@
+pane	dumps	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/dumps	1	zsh	:/bin/zsh --login
+window	dumps	1	:zsh	1	:*	cefd,166x86,0,0,0	:
+state	dumps	

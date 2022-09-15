@@ -1,0 +1,4 @@
+pane	dumps	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/dumps/tests	0	zsh	:/bin/zsh --login
+pane	dumps	1	1	:*	2	pidgey	:/Users/rai/dev/lexstep/dumps	1	zsh	:/bin/zsh --login
+window	dumps	1	:zsh	1	:*	895a,633x148,0,0{319x148,0,0,0,313x148,320,0,1}	:
+state	dumps	

@@ -1,0 +1,3 @@
+pane	infrastructure	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/nest-infrastructure	1	zsh	:/bin/zsh --login
+window	infrastructure	1	:zsh	1	:*	b702,314x71,0,0,5	:
+state	infrastructure	

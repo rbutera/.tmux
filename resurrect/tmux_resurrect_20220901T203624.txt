@@ -1,0 +1,6 @@
+pane	dumps	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/dumps/tests	0	zsh	:/bin/zsh --login
+pane	dumps	1	1	:*	2	pidgey	:/Users/rai/dev/lexstep/dumps	1	zsh	:/bin/zsh --login
+pane	rec	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/nest-client	1	zsh	:/bin/zsh --login
+window	dumps	1	:zsh	1	:*	d9a9,80x148,0,0{42x148,0,0,0,37x148,43,0,1}	:
+window	rec	1	:tmux	1	:*	839f,423x100,0,0,2	:
+state	rec	

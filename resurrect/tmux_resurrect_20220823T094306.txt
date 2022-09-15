@@ -1,0 +1,3 @@
+pane	acceptance	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/dumps/tests	1	zsh	:/bin/zsh --login
+window	acceptance	1	:zsh	1	:*	9a0d,116x115,0,0,0	:
+state	acceptance	

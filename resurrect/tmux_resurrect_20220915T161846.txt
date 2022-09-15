@@ -1,0 +1,9 @@
+pane	lexstep	1	0	:	1	zsh	:/Users/rai/dev/lexstep/nest-infrastructure/client	1	zsh	:/bin/zsh --login
+pane	lexstep	2	0	:-	1	zsh	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+pane	lexstep	2	0	:-	2	zsh	:/Users/rai/dev/lexstep/lexstep-nest	0	zsh	:/bin/zsh --login
+pane	lexstep	3	1	:*	1	zsh	:/Users/rai/dev/lexstep/nest-client	1	zsh	:/bin/zsh --login
+pane	lexstep	3	1	:*	2	zsh	:/Users/rai	0	zsh	:/bin/zsh --login
+window	lexstep	1	:infra	0	:	bf02,314x73,0,0,5	off
+window	lexstep	2	:nest	0	:-	bf00,314x73,0,0{157x73,0,0,7,156x73,158,0,8}	off
+window	lexstep	3	:client	1	:*	1768,314x73,0,0{155x73,0,0,9,158x73,156,0,14}	off
+state	lexstep	

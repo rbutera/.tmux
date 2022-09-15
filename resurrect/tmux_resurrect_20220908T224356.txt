@@ -1,0 +1,14 @@
+pane	dumps	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+pane	dumps	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+pane	dumps	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/lexstep-nest	0	zsh	:/bin/zsh --login
+pane	dumps	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/lexstep-nest	0	zsh	:/bin/zsh --login
+pane	pqe	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/dumps	1	zsh	:/bin/zsh --login
+pane	pqe	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/dumps	1	zsh	:/bin/zsh --login
+pane	pqe	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/dumps	0	zsh	:/bin/zsh --login
+pane	pqe	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/dumps	0	zsh	:/bin/zsh --login
+window	dumps	1	:zsh	1	:*	cc11,183x86,0,0{96x86,0,0,0,86x86,97,0,1}	:
+window	dumps	1	:zsh	1	:*	cc11,183x86,0,0{96x86,0,0,0,86x86,97,0,1}	:
+window	pqe	1	:zsh	1	:*	ae7a,183x86,0,0{93x86,0,0,2,89x86,94,0,3}	:
+window	pqe	1	:zsh	1	:*	ae7a,183x86,0,0{93x86,0,0,2,89x86,94,0,3}	:
+state	pqe	
+state	pqe	

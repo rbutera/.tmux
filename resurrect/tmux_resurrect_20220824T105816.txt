@@ -1,0 +1,6 @@
+pane	acceptance	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/dumps/tests	1	zsh	:/bin/zsh --login
+pane	legacy	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/lexstep-client	0	zsh	:/bin/zsh --login
+pane	legacy	1	1	:*	2	pidgey	:/Users/rai/dev/lexstep/lexstep-server	1	zsh	:/bin/zsh --login
+window	acceptance	1	:zsh	1	:*	9a5d,236x115,0,0,0	:
+window	legacy	1	:zsh	1	:*	cff0,314x148,0,0{157x148,0,0,2,156x148,158,0,3}	:
+state	legacy	

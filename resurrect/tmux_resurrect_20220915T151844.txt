@@ -1,0 +1,10 @@
+pane	5	1	1	:*	1	zsh	:/Users/rai	1	zsh	:/bin/zsh --login
+pane	lexstep	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/nest-infrastructure/server/staging-env	1	zsh	:/bin/zsh --login
+pane	lexstep	2	0	:-	1	zsh	:/Users/rai/dev/lexstep/lexstep-nest	0	zsh	:/bin/zsh --login
+pane	lexstep	2	0	:-	2	zsh	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+pane	lexstep	3	0	:	1	zsh	:/Users/rai/dev/lexstep/nest-client	1	zsh	:/bin/zsh --login
+window	5	1	:zsh	1	:*	5607,314x148,0,0,10	:
+window	lexstep	1	:infra	1	:*	abb2,314x148,0,0,5	off
+window	lexstep	2	:nest	0	:-	cff5,314x148,0,0{157x148,0,0,7,156x148,158,0,8}	off
+window	lexstep	3	:zsh	0	:	bf06,314x73,0,0,9	:
+state	lexstep	5

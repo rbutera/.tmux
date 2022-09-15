@@ -1,0 +1,4 @@
+pane	infrastructure	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/nest-infrastructure/server	1	zsh	:/bin/zsh --login
+pane	infrastructure	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/nest-infrastructure	0	zsh	:/bin/zsh --login
+window	infrastructure	1	:zsh	1	:*	b5fc,314x71,0,0{157x71,0,0,5,156x71,158,0,6}	:
+state	infrastructure	

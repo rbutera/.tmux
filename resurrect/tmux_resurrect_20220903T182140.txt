@@ -1,0 +1,3 @@
+pane	rec	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/recommendations-acceptance-tests	1	zsh	:/bin/zsh --login
+window	rec	1	:zsh	1	:*	a8cd,176x147,0,0,0	:
+state	rec	

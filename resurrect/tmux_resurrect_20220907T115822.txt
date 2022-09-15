@@ -1,0 +1,7 @@
+pane	dumps	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+pane	dumps	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/lexstep-nest	0	zsh	:/bin/zsh --login
+pane	pqe	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/dumps	1	zsh	:/bin/zsh --login
+pane	pqe	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/dumps	0	zsh	:/bin/zsh --login
+window	dumps	1	:zsh	1	:*	1420,336x86,0,0{171x86,0,0,0,164x86,172,0,1}	:
+window	pqe	1	:zsh	1	:*	4b93,336x86,0,0{168x86,0,0,2,167x86,169,0,3}	:
+state	pqe	

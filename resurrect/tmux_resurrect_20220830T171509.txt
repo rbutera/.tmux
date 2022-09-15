@@ -1,0 +1,7 @@
+pane	client	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/nest-client	0	zsh	:/bin/zsh --login
+pane	client	1	1	:*	2	pidgey	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+pane	nest	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/lexstep-nest	0	zsh	:/bin/zsh --login
+pane	nest	1	1	:*	2	pidgey	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+window	client	1	:zsh	1	:*	2260,283x71,0,0{141x71,0,0,2,141x71,142,0,3}	:
+window	nest	1	:zsh	1	:*	225d,283x71,0,0{141x71,0,0,0,141x71,142,0,1}	:
+state	client	

@@ -1,0 +1,4 @@
+pane	nest	1	1	:*	1	pidgey	:/Users/rai/dev/lexstep/lexstep-nest	1	zsh	:/bin/zsh --login
+pane	nest	1	1	:*	2	pidgey	:/Users/rai/dev/lexstep/lexstep-nest	0	zsh	:/bin/zsh --login
+window	nest	1	:[tmux]	1	:*	7cf2,283x147,0,0{141x147,0,0,0,141x147,142,0,1}	:
+state	nest	

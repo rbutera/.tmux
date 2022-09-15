@@ -1,0 +1,8 @@
+pane	dumps	1	1	:##*	1	zsh	:/Users/rai/bin	1	zsh	:/bin/zsh --login
+pane	rec	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/recommendations-acceptance-tests	1	zsh	:/bin/zsh --login
+pane	san	1	1	:*	1	zsh	:/Users/rai/dev/lexstep/dumps	0	zsh	:/bin/zsh --login
+pane	san	1	1	:*	2	zsh	:/Users/rai/dev/lexstep/dumps	1	zsh	:/bin/zsh --login
+window	dumps	1	:zsh	1	:##*	d11e,209x96,0,0,1	:
+window	rec	1	:zsh	1	:*	a85d,635x147,0,0,0	:
+window	san	1	:zsh	1	:*	af6e,55x56,0,0{26x56,0,0,2,28x56,27,0,3}	:
+state	san	
